@@ -1,0 +1,17 @@
+.carousel-item {
+    width: 200px;
+    margin: 10 px;
+}
+
+.karusel{
+margin: 10px;
+padding: 10px;
+}
+.object-fit-cover {
+    object-fit: none;
+}
+
+.myay{
+    margin: 10px;
+    padding: 10px;
+}
